@@ -1,6 +1,8 @@
 # Title: Sniffing Out Dog Breeds With AI
 
-# Abstract: In this project, I utilize an ensemble learning approach that combines three neural networks (VGG16, InceptionV3, and MobileNetV2) to identify dog breeds from images. My method improves breed identification accuracy and provides insights into the strengths and weaknesses of each model.
+# Abstract: 
+
+In this project, I utilize an ensemble learning approach that combines three neural networks (VGG16, InceptionV3, and MobileNetV2) to identify dog breeds from images. My method improves breed identification accuracy and provides insights into the strengths and weaknesses of each model.
 
 
 
